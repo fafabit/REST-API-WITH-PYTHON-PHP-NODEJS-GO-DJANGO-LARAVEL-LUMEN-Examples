@@ -139,14 +139,3 @@ These tips are just the tip of the iceberg, and apply to all APIs in a general s
 **Very easy to create REST API in couple of minutes, you can choose any of the above code base according to your language and framework preferences and follow instructions to create REST API.**
 
 Happy Coding 👍
-
-#### For Help, you can reach
--------------------------------
-
-[Linkedin: https://www.linkedin.com/in/the-startup-cto/](https://www.linkedin.com/in/the-startup-cto/)
-
-[Medium: https://apige.medium.com/](https://apige.medium.com/)
-
-[Twitter: https://twitter.com/htngapi](https://twitter.com/htngapi)
-
-
